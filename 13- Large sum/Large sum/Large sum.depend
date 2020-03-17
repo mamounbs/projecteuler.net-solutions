@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548161552 source:c:\users\mamoun\desktop\c\official\projecteuler\projecteuler\5%\13- large sum\large sum\main.c
+	<stdio.h>
+	<gmp.h>
+
+1548161582 source:c:\users\mamou\desktop\c\official\projecteuler\projecteuler\5%\13- large sum\large sum\main.c
+	<stdio.h>
+	<gmp.h>
+

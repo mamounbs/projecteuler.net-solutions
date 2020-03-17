@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580834396 source:c:\users\mamou\desktop\c\17\number letters counts\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580846705 source:c:\users\mamou\desktop\c\official\projecteuler\projecteuler\5%\17- number letter counts\number letters counts\main.c
+	<stdio.h>
+	<stdlib.h>
+

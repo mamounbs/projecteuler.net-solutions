@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562166161 source:c:\users\mamou\desktop\c\official\projecteuler\projecteuler\5%\16- power digit sum\power digit sum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

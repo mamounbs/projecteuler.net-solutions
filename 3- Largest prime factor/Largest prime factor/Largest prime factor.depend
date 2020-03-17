@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548104326 source:c:\users\mamoun\desktop\c\official\projecteuler\projecteuler\5%\3- largest prime factor\largest prime factor\main.c
+	<stdio.h>
+	<stdlib.h>
+

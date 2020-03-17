@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547145928 source:c:\users\mamoun\desktop\c\projecteuler\largest product in a grid\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552229982 source:c:\users\mamoun\desktop\c\official\projecteuler\projecteuler\5%\15- lattice paths\lattice paths\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1552230059 source:c:\users\mamou\desktop\c\official\projecteuler\projecteuler\5%\15- lattice paths\lattice paths\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

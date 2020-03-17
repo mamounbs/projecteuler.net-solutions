@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561144236 source:c:\users\mamou\desktop\c\official\projecteuler\projecteuler\5%\4- largest palindrome product\largest palindrome product\main.c
+	<stdio.h>
+	<stdlib.h>
+
